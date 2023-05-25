@@ -1,0 +1,52 @@
+.container
+{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: cornflowerblue;
+    margin: 3px;
+    margin-left: 40px;
+
+    padding: 3px;
+}
+
+#Titulo{
+    display: flex;
+    justify-content: center;
+}
+
+#Sub
+{
+    display: flex;
+    justify-content: center;
+}
+
+#Form
+{
+    background-color:white;
+    margin:70px;
+    margin-left: 20px;
+    margin-right: 200px;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+#N
+{
+    display: flex;
+    background-color: brown;
+    margin-right: 300px;
+}
+
+#tel
+{
+    display: flex;
+    margin-right: 300px;
+}
+
+#Input
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
